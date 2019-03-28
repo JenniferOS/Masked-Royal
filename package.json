@@ -1,0 +1,23 @@
+{
+  "name": "masked-royal",
+  "version": "1.0.0",
+  "description": "Pokemon Competitivo - Centro Pokemon",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferOS/Masked-Royal.git"
+  },
+  "author": "Jennifer White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferOS/Masked-Royal/issues"
+  },
+  "homepage": "https://github.com/JenniferOS/Masked-Royal#readme"
+}
